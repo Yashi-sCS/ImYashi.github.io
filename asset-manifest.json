@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/ImYashi.github.io/static/css/main.42931952.css",
+    "main.js": "/ImYashi.github.io/static/js/main.c30a89e0.js",
+    "static/js/787.e02c0aaf.chunk.js": "/ImYashi.github.io/static/js/787.e02c0aaf.chunk.js",
+    "static/media/color-sharp.png": "/ImYashi.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/ImYashi.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/banner-bg.png": "/ImYashi.github.io/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/header-img.svg": "/ImYashi.github.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/CentraNo2-Bold.ttf": "/ImYashi.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/ImYashi.github.io/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/ImYashi.github.io/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img1.png": "/ImYashi.github.io/static/media/project-img1.d593db3f12901bc685c2.png",
+    "static/media/footer-bg.png": "/ImYashi.github.io/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/project-img2.png": "/ImYashi.github.io/static/media/project-img2.2e52097c417f9f1134b0.png",
+    "static/media/project-img3.png": "/ImYashi.github.io/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/contact-img.svg": "/ImYashi.github.io/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/ImYashi.github.io/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/ImYashi.github.io/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/ImYashi.github.io/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/ImYashi.github.io/static/media/logo.eaf3c0bc058e0ed6471ba20dc0af6da2.svg",
+    "static/media/meter70.svg": "/ImYashi.github.io/static/media/meter70.ac12d1d4c8e47c192698761565c795dc.svg",
+    "static/media/nav-icon2.svg": "/ImYashi.github.io/static/media/nav-icon2.daccbe02da611a64b0a4fce4abfe3613.svg",
+    "static/media/meter90.svg": "/ImYashi.github.io/static/media/meter90.320325aed60491c6b2e58f49d9da1257.svg",
+    "static/media/meter80.svg": "/ImYashi.github.io/static/media/meter80.fc182511f349d844099db0d012f89a8a.svg",
+    "index.html": "/ImYashi.github.io/index.html",
+    "static/media/nav-icon1.svg": "/ImYashi.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "main.42931952.css.map": "/ImYashi.github.io/static/css/main.42931952.css.map",
+    "main.c30a89e0.js.map": "/ImYashi.github.io/static/js/main.c30a89e0.js.map",
+    "787.e02c0aaf.chunk.js.map": "/ImYashi.github.io/static/js/787.e02c0aaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42931952.css",
+    "static/js/main.c30a89e0.js"
+  ]
+}
